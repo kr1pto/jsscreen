@@ -7,13 +7,11 @@
 
 body{
     background-color: #0B1D26;
-    
     width: 1900px;
     height: 912px;
 }
 
 h2{
-   
     width: 233px;
     height: 0px;
     left: 275px;
@@ -31,18 +29,14 @@ h2{
 
 .left_side{
     display: flex;
-
     width: 640px;
     height: 712px;
     left: 345px;
     top: 100px;
-
- 
 }
 
 .left_side hr{
-   
-    width: 70px;
+      width: 70px;
     height: 0px;
     left: 30px;
     top: 144px;
@@ -50,8 +44,7 @@ h2{
 }
 
 .left_side .proff{
-   
-    width: 123px;
+       width: 123px;
     height: 33px;
     left: 130px;
     top: 127px;
@@ -80,8 +73,7 @@ h2{
 }
 
 .left_side .main_text{
-   
-    width: 580px;
+       width: 580px;
     height: 148px;
     left: 30px;
     top: 386px;
@@ -109,10 +101,8 @@ h2{
 
 .right_side{
     display: flex;
- 
-    width: 640px;
+     width: 640px;
     height: 712px;
     left: 985px;
     top: 100px;
-
 }
